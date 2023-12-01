@@ -13,7 +13,8 @@ git clone https://github.com/ali-zeynali/MusicGen.git
 ```bash
 cd MusicGen
 ```
-
+## Prepare dataset
+Uzip dataset.zip into dataset folder.
 ## Requirements
 
 To run the code in this repository, you'll need:
