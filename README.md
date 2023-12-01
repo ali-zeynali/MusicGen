@@ -9,7 +9,9 @@ The primary goal of this project is to explore the use of LSTM networks in gener
 ## Clone the project
 ```bash
 git clone https://github.com/ali-zeynali/MusicGen.git
-cd MuicGen
+```
+```bash
+cd MusicGen
 ```
 
 ## Requirements
@@ -39,5 +41,3 @@ The code is written in Jupyter-notebook environment under Python 3.x version. Si
 ```bash
 python -m notebook
 ```
-
-
